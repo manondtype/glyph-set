@@ -1,4 +1,3 @@
-unicode hex
 0E01
 0E02
 0E03
